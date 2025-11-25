@@ -6,6 +6,13 @@ public class whileloop{
       while(i<=7)  
         {
             System.out.println( i + "__Jai Shree Ram__");
+            
+            int j = 1;
+            while(j<=2){
+                System.out.println(j + "  RAM RAM SAA");
+
+                j++;
+            }
 
             i++;
         }
