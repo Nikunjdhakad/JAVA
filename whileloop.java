@@ -19,7 +19,7 @@ public class whileloop{
             
         }
 
-           int p= 1;
+           int p= 8;
 
         do 
             {
