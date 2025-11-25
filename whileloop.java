@@ -15,6 +15,18 @@ public class whileloop{
             }
 
             i++;
+
+            
         }
+
+           int p= 1;
+
+        do 
+            {
+                System.out.println("jai hanuman" + p );
+
+                p++;
+
+            } while(p<=7);
     }
 }
