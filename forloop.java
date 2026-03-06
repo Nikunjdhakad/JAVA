@@ -1,8 +1,10 @@
+
 public class forloop{
     public static void main( String args[]){
        
         for(  int i=1; i<=7; i++  )
-        
+       
+    {   
               System.out.println(" Day -" + i);
          
         
@@ -10,8 +12,9 @@ public class forloop{
              System.out.println("   time:-   " + (8+j)+ "  ......  " + (9+j));
              
         
-    
+    }
     
         
     }
+
 }

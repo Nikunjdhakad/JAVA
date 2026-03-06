@@ -1,3 +1,4 @@
+
 public class whileloop{
     public static void main(String[]args){
         
@@ -19,7 +20,7 @@ public class whileloop{
             
         }
 
-           int p= 5;
+           int p= 8;
 
         do 
             {
@@ -29,4 +30,5 @@ public class whileloop{
 
             } while(p<=7);
     }
+
 }
