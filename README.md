@@ -12,12 +12,11 @@ I am posting here **my daily / regular progress in learning Java**, including no
 - Look back at how much I have learned over time  
 
 ---
+## ⚡ Nikunj's Coding Activity
 
-## 📅 Progress Tracker Graph
-This graph updates automatically based on my GitHub activity 👇
-
-![Java Progress Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikunjdhakad&theme=react-dark&hide_border=true&area=true)
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikunjdhakad&theme=tokyo-night&area=true&hide_border=true&custom_title=Nikunj%20Dhakad's%20GitHub%20Activity"/>
+</p>
 ---
 
 ## 📂 What You Will Find Here
