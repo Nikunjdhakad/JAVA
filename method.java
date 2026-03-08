@@ -6,14 +6,22 @@ class hostel
         
     }
 
-    public int classroom()
+    public  int classroom(int year)
     {
+        if (year <= 4)
         return 205;
+        
+        else 
+            return 0;
     }
 
-    public String student()
+    public String student( float hieght )
     {
+        if (hieght >= 5.10f)
         return "sushmita";
+        
+        else
+            return "too Small";
     }
 }
 
@@ -25,12 +33,12 @@ public class method {
 
           host.room();
 
-           int X = host.classroom();
+           int X = host.classroom( 3);
              {
                 System.out.println(X);
              }
 
-             String Y = host.student();
+             String Y = host.student(4.5f);
 
              {
                 System.out.println(Y);
