@@ -1,13 +1,13 @@
 public class Exercise {
    public static void main(String[] args) {
        
-        int score = 75;
+        int score = 00;
         char grade = 'B';
         
-        if (score >=50)
-          System.out.println("Passed");
-        else
-          System.out.println("Failed");
+        // if (score >=50)
+        //   System.out.println("Exellent");
+        // else
+        //   System.out.println("Failed");
 
         // TODO: Determine grade based on score
        
@@ -22,6 +22,8 @@ public class Exercise {
        
        else if(score<60)
          System.out.println("Grade: D");
+         System.out.println("do the class reapeat because you fail this exam......");
+        
         
        
    }
