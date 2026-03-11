@@ -19,19 +19,16 @@ class overloading{
    {
     return n1+n2+n3;
    }
-   public int add (int n1)
-    {
-        return n1;
-    }
 }
 public class methov {
     public static void main(String args [])
     {
        overloading plus = new overloading();
 
-       double r = plus.add(5);
+       double r = plus.add(5,8);
        System.out.println(r);
       
     }
 
 }
+/*-------------- */
