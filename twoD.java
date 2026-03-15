@@ -1,42 +1,24 @@
-public class twoD {
-    public static void main(String a[])
-    {
-        int nums [] [] = new int [3] [4]; 
+public class twoD{
+    public static void main (String args[]){
+        int arr[][]= new int [3][4];
 
-        int random = 0;
-
-        for(int i=0; i<3; i++)
+        for(int i=0; i<3; i++ )
         {
             for(int j=0; j<4; j++)
             {
-                 nums [i][j]= (int)( Math.random() * 10);
-            }
-        }
-
-        for (int i=0; i<3; i++ )
-        {
-            for(int j=0; j<4; j++)
-            {
-                System.out.print(nums [i][j] +" ");
+               arr[i][j]= (int) (Math.random()*10 );
             }
             System.out.println();
         }
 
-        // for ( n[]:nums)
-        // {
-        //     for n=
-        // }
-        for( int n[] : nums)
-        {
-            for(int m:n)
-            {
-                System.out.print(m+"   ");
-            }
-            System.out.println( );
-        
-        }
-        
-    
 
+        for(int i=0; i<3; i++ )
+        {
+            for(int j=0; j<4; j++)
+            {
+                System.out.print(arr[i][j] + "  ");
+            }
+            System.out.println();
+        }
     }
 }
