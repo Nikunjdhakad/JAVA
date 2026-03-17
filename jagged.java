@@ -3,8 +3,8 @@ public class jagged {
     {
         int nums [][]=new int [4][];
 
-        nums[0]= new int [11];
-        nums[1]= new int [12];
+        nums[0]= new int [4];
+        nums[1]= new int [6];
         nums[2]= new int [8];
         nums[3]= new int [7];
 
@@ -16,7 +16,7 @@ public class jagged {
             }
 
         }
-
+         
         for (int n[] : nums)
         {
             for(int m:n)
