@@ -1,6 +1,6 @@
 public class twoD{
     public static void main (String args[]){
-        int arr[][]= new int [3][4];
+        int arr[][]= new int [5][9];
 
         for(int i=0; i<3; i++ )
         {
