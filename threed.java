@@ -1,7 +1,7 @@
 public class threed {
     public static void main (String a[])
     {
-        int arr[][][]= new int [5][5][];
+        int arr[][][]= new int [2][3][4];
 
         for(int i=0; i<arr.length; i++)
         {
