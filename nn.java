@@ -1,8 +1,8 @@
 public class nn {
     public static void main(String[] args) {
         
-        double num1 = 7;
-        double num2 = 3;
+        double num1 = 42;
+        double num2 = 65;
         char operator = '+';
         String again = "y"; 
 
