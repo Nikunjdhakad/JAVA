@@ -25,7 +25,7 @@ public class methov {
     {
        overloading plus = new overloading();
 
-       double r = plus.add(5,8);
+       double r = plus.add(4,9);
        System.out.println(r);
       
     }
