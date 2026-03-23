@@ -8,8 +8,28 @@ public class dr {
 
         // TODO: Initialize min and max with the first element
 
+         int smallest = numbers[0];
+         int largest = numbers[0];
+
+
         // TODO: Use an enhanced for loop to find min and max
 
+        for (int num : numbers) 
+            {
+            if (num < smallest)
+                 {
+                   smallest = num;
+                 }
+            if (num > largest)
+                 {
+                largest = num;
+            }
+        }
+
         // TODO: Print the smallest and largest numbers
+
+         System.out.println("Smallest:  " + smallest);
+         System.out.println("Largest:  " + largest);
     }
 }
+
