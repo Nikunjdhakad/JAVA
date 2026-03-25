@@ -1,5 +1,5 @@
 //What will be the output of the given code snippet?
-
+class test{
 public static void main(String[] args) {
 
 int i, j;
@@ -12,4 +12,5 @@ while(++i < --j);
 
 System.out.println(i);
 
+}
 }
