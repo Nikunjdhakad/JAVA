@@ -1,0 +1,52 @@
+class toothpaste
+{
+    public toothpaste()
+    {
+    //    price = 19;
+    //    brand = "newest";
+    System.out.println("jai shree ram" );
+    }
+
+
+    private int price;
+    private String brand ;         
+                              
+    public void setprice(int p)
+    {
+        price = p;
+    }
+
+
+    public int getprice()                     
+    {                                         
+        return price;
+    }
+
+    public void setbrand( String b)
+    {
+        brand=b;
+    }
+
+    public String getbrand()
+    {
+        return brand;
+    }
+}
+
+
+
+
+
+public class constructor {
+    public static void main(String []a)
+    {
+        toothpaste tp = new toothpaste();
+        toothpaste tp1 =new toothpaste();
+
+        System.out.println(tp.getprice() + " : " + tp.getbrand() );
+         tp.setprice( 98) ;
+         tp.setbrand("dantkanti");
+
+        System.out.println(tp.getprice() + " : " + tp.getbrand() );
+    }    
+}
