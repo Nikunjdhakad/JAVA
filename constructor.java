@@ -1,15 +1,17 @@
 class toothpaste
 {
-    public toothpaste()
+   
+    private int price;
+    private String brand ;       
+    
+    
+     public toothpaste()        // it is a default constructor.
     {
     //    price = 19;
     //    brand = "newest";
     System.out.println("jai shree ram" );
     }
-
-
-    private int price;
-    private String brand ;         
+    
                               
     public void setprice(int p)
     {
