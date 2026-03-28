@@ -10,4 +10,4 @@ public class ao{
          int R =  A++;
         System.out.println( R);
     }
-}
+}   
