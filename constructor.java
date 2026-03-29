@@ -49,6 +49,6 @@ public class constructor {
          tp.setprice( 98) ;
          tp.setbrand("dantkanti");
 
-        System.out.println(tp.getprice() + " : " + tp.getbrand() );
+        System.out.println(tp1.getprice() + " : " + tp1.getbrand() );
     }    
 }
