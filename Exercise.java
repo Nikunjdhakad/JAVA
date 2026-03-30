@@ -2,12 +2,12 @@ public class Exercise {
    public static void main(String[] args) {
        
         int score = 00;
-        char grade = 'B';
+        //char grade = 'B';
         
-        // if (score >=50)
-        //   System.out.println("Exellent");
-        // else
-        //   System.out.println("Failed");
+        if (score >=50)
+          System.out.println("Exellent");
+        else
+          System.out.println("Failed");
 
         // TODO: Determine grade based on score
        
