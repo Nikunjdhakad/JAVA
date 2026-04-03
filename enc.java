@@ -68,7 +68,7 @@ public class enc {
     public static void main(String []a)
     {
         toothpaste tp = new toothpaste();
-         tp.setprice( 98) ;
+         tp.setprice( 95) ;
          tp.setbrand("dantkanti");
 
         System.out.println(tp.getprice() + " : " + tp.getbrand() );
