@@ -17,7 +17,7 @@ class hostel
 
     public String student( float hieght )
     {
-        if (hieght >= 5.10f)
+        if (hieght >= 6.10f)
         return "sushmita";
         
         else
@@ -38,7 +38,7 @@ public class method {
                 System.out.println(X);
              }
 
-             String Y = host.student(4.5f);
+             String Y = host.student(5.5f);
 
              {
                 System.out.println(Y);
