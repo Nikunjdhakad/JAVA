@@ -5,6 +5,8 @@ class Hello
        char A = 'a';
        A++;
        A++;
+       A++;
+       A++;
 
        System.out.println(A);
      } 
