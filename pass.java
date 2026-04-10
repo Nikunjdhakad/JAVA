@@ -16,11 +16,11 @@ class pass {
 
         // Using logical + relational operators
         if (length >= 8 && hasNumber && hasUpper) {
-            System.out.println("Strong Password 💪");
+            System.out.println("Strong Password ");
         } else if (length >= 5) {
-            System.out.println("Medium Password 🙂");
+            System.out.println("Medium Password ");
         } else {
-            System.out.println("Weak Password 😐");
+            System.out.println("Weak Password ");
         }
     }
 
