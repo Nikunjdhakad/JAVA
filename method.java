@@ -2,7 +2,7 @@ class hostel
 {
     public void room()
     {
-        System.out.println(22);
+        System.out.println(44);
         
     }
 
