@@ -2,8 +2,8 @@
 public class ifelse{
     public static void main(String args[])
     {
-        int A = 7;
-        int B = 8;
+        int A = 76;
+        int B = 85;
 
         if(A>B && A<B )
          {  System.out.print("jai shree ram");
