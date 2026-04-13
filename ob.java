@@ -11,15 +11,15 @@ public class ob {
     {
         hostle host =new hostle();
 
-        host.roomno =250;
+        host.roomno =25055;
         host.type = "'boys'";
-        host.bad = 3;
+        host.bad = 883;
 
 
         hostle host1 = new hostle();
         host1.roomno = 26;
         host1.type = "girls";
-        host1.bad =3;
+        host1.bad =355;
 
 
         
