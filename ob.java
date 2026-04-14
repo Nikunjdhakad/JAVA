@@ -26,11 +26,11 @@ public class ob {
         hostle host2 = new hostle();
         host2.roomno = 273;
         host2.type = " senior girls";
-        host2.bad =5;
+        host2.bad =53584535;
 
         
         hostle host3 = new hostle();
-        host3.roomno = 420;
+        host3.roomno = 48652520;
         host3.type = "senior boys";
         host3.bad =6;
 
