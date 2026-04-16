@@ -37,9 +37,9 @@ public class ob {
         hostle hostles[]= new hostle[4];
 
         hostles[0]= host;
-        hostles[1]= host155;
-        hostles[2]= host2888;
-        hostles[3]= host379879;
+        hostles[1]= host5;
+        hostles[2]= host8;
+        hostles[3]= host37;
 
         for(hostle H : hostles)
         {
