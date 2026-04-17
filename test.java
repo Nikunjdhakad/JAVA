@@ -4,9 +4,9 @@ public static void main(String[] args) {
 
 int i, j;
 
-i = 100;
+i = 1223;
 
-j = 300;
+j = 30560;
 
 while(++i < --j);
 
