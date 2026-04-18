@@ -6,7 +6,7 @@ public class strb {
         temple.append( " Ram ");
         temple.insert(0,"Shree ");
         //temple.setLength();
-        System.out.println(temple);
+        System.out.println(temp);
         temple.setLength(55); //this line set the new length or capacity of the string......
         System.out.println(temple.capacity());
 
