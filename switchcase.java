@@ -8,13 +8,13 @@ public class switchcase {
                   System.out.println("monday");
                   break;
             case 2:
-                  System.out.println("tuesday");
+                  System.out.println("tue");
                   break;
             case 3:
-                  System.out.println("wednessday");   
+                  System.out.println("wed");   
                   break;   
             case 4:
-                  System.out.println("thursday");
+                  System.out.println("thur");
                   break;
             case 5:
                   System.out.println("friday");
