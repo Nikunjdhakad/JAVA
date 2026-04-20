@@ -17,10 +17,10 @@ public class switchcase {
                   System.out.println("thur");
                   break;
             case 5:
-                  System.out.println("friday");
+                  System.out.println("fri");
                   break;
             case 6:
-                  System.out.println("saturday");
+                  System.out.println("sat");
                   break;
             case 7:
                   System.out.println("Sunday");
