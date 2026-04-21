@@ -23,10 +23,10 @@ public class switchcase {
                   System.out.println("sat");
                   break;
             case 7:
-                  System.out.println("Sunday");
+                  System.out.println("Sun");
             
             default:
-                System.out.println("Not awailable");
+                System.out.println("Not avai");
                   
         }
     }
