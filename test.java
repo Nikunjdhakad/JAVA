@@ -4,7 +4,7 @@ public static void main(String[] args) {
 
 int i, j;
 
-i = 1223;
+i = 13;
 
 j = 360;
 
