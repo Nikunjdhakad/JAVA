@@ -31,7 +31,7 @@ public class stat {
 
         laptop obj2 = new laptop();
         laptop.brand= "Samsung";
-        obj2.price = 90000;
+        obj2.price = 900;
         obj2.condition= "refervised";
 
 
