@@ -19,7 +19,7 @@ public class stat {
     {
         laptop obj =new laptop();
         obj.price=75000;
-        laptop.brand = "HP";
+        laptop.brand = "Hyper book";
         obj.condition="new";
 
         
